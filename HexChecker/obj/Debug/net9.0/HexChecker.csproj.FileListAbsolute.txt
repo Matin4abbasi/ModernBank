@@ -1,0 +1,11 @@
+D:\saas\hex\HexChecker\bin\Debug\net9.0\HexChecker.deps.json
+D:\saas\hex\HexChecker\bin\Debug\net9.0\HexChecker.dll
+D:\saas\hex\HexChecker\bin\Debug\net9.0\HexChecker.pdb
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.AssemblyInfoInputs.cache
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.AssemblyInfo.cs
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.csproj.CoreCompileInputs.cache
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.dll
+D:\saas\hex\HexChecker\obj\Debug\net9.0\refint\HexChecker.dll
+D:\saas\hex\HexChecker\obj\Debug\net9.0\HexChecker.pdb
+D:\saas\hex\HexChecker\obj\Debug\net9.0\ref\HexChecker.dll

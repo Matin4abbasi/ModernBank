@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=139f2357_002D6f6c_002D45da_002Dbbb9_002Df3a067836b84/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ValidateHex_ShouldReturnTrue_WhenInputIsValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3064C336-1E46-47A6-B76B-680B208C25A2::net9.0::HexCheckerTest.UnitTest1.ValidateHex_ShouldReturnTrue_WhenInputIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3064C336-1E46-47A6-B76B-680B208C25A2::net9.0::HexCheckerTest.UnitTest1.ValidateHex_ShouldReturnFalse_WhenInputIsNotValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
